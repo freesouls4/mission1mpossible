@@ -53,7 +53,7 @@ body {
   height: 500px;
   float: right;
   padding: 10px;
-  margin: 2rem 5rem 0 0;
+  margin: 3.4rem 5rem 0 0;
 }
 
 .header-p {

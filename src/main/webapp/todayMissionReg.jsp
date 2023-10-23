@@ -61,7 +61,7 @@ body {
 		float: right;
 		height: 500px;
 		padding: 10px;
-		margin: 2rem 5rem 0 0;
+		margin: 3.4rem 5rem 0 0;
 }
 
 .img-flued {
